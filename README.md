@@ -10,3 +10,7 @@ Scenario Quality Checker to aplikacja służąca do sprawdzania scenariuszy. W p
 - Martyna Wyrobek [164128]
 - Olga Kycia [164091]
 - Izabela Jasiukiewicz [164071]
+
+## Daily Scrum
+
+Spotkania Daily Scrum odbywają się zdalnie w środy i niedziele o godzinie 20:00.
